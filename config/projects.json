@@ -1,0 +1,10 @@
+[
+  {
+    "id": "agent-office",
+    "name": "Agent Office",
+    "status": "active",
+    "cwd": ".",
+    "ownerAgentId": "pm",
+    "description": "로그인된 Codex 세션으로 운영되는 로컬 멀티에이전트 관제 시스템"
+  }
+]
